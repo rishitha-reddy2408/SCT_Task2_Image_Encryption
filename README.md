@@ -93,6 +93,11 @@ The project generates:
 
 ---
 
+## Google Colab Notebook
+
+You can view and run the project here:
+https://colab.research.google.com/drive/1YjF20V2ZtfJO2S_NKqNyn0Kxu5ezET7d?usp=sharing
+
 ## Author
 
 Pati Rishitha Reddy
